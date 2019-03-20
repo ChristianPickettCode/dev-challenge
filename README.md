@@ -9,7 +9,7 @@ N - Node JS for server/backend
 
 I didn't have time to visit SASS, it has also been a couple years since I have used SASS in a project, but still familiar with it. This was a pretty rushed project, because I didn't know if I would qualify for the intervie since I am out of Montreal, I spent roughly 5 hours in total for this project.
 
-# If you go to /admin on the website you can see all the information from the database
+***** If you go to /admin on the website you can see all the information from the database
 
 
 
