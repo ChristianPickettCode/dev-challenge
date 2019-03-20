@@ -1,3 +1,24 @@
+# This is my submission to the HackMcGill Dev Team Coding Challenge by Christian Pickett
+
+I created a MERN application
+
+M - MongoDB, I use mongoose to interface with express, the db is stored in mlab.com
+E - Express JS, for the backend
+R - React JS for the frontend
+N - Node JS for server/backend
+
+I didn't have time to visit SASS, it has also been a couple years since I have used SASS in a project, but still familiar with it. This was a pretty rushed project, because I didn't know if I would qualify for the intervie since I am out of Montreal, I spent roughly 5 hours in total for this project.
+
+# If you go to /admin on the website you can see all the information from the database
+
+
+
+
+
+
+
+
+
 # HackMcGill Dev Team Coding Challenge
 
 Thank you for your interest in joining the Development team on HackMcGill!
